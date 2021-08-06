@@ -12,8 +12,8 @@ class CustomKeyboard extends StatefulWidget {
 class _CustomKeyboardState extends State<CustomKeyboard> {
 
   Color _black =HexColor("#000000");
-  Color _grey =HexColor("#FBFBFB");
-  Color _white =HexColor("#E5E5E5");
+  Color _grey =HexColor("#E5E5E5");
+  Color _white =HexColor("#FBFBFB");
 
   late List<List<dynamic>> keys;
 
